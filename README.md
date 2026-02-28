@@ -16,3 +16,4 @@ captions for uploaded images.
 3. Start frontend:
    streamlit run frontend/app.py
 4. Upload an image and generate a caption
+<video controls src="bca545d2-de3b-4809-aa83-0d3b8d72cc1c.webm" title="Title"></video>
